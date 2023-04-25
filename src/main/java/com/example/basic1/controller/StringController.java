@@ -12,7 +12,7 @@ public class StringController {
 
     @GetMapping("/ping")
     public String ping() {
-        return "Application is started! v2";
+        return "Application is started! v2 v2";
     }
 
     @GetMapping("/ping2")
